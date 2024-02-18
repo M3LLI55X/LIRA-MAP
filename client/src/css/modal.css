@@ -1,0 +1,10 @@
+.introduction-modal-text {
+  cursor: help;
+}
+
+.introduction-modal-text:hover {
+  cursor: help;
+  color: orange;
+  font-size: 25px;
+  z-index: 5;
+}
